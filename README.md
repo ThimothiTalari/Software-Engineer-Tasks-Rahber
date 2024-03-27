@@ -71,6 +71,7 @@ AWS Identity and Access Management (IAM): Manage access to AWS services securely
 AWS Shield: Protect against distributed denial of service (DDoS) attacks by using AWS Shield, which provides protection for applications running on AWS.
 
 
+
 3. **Personalized Learning Path Generation**: Create an algorithm that generates personalized learning paths based on users' interests, past course engagements, and performance data. 
 Ensure adaptability to evolving learning goals and privacy in handling user data.
 
